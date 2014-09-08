@@ -2,9 +2,8 @@
 
 ## Introduction
 
-```txt
 "Often, you’ll want your computer to do the same thing over and over again. After all, that’s what they’re supposed to be good at doing. When you tell your computer to keep repeating something, you also need to tell it when to stop. Computers never get bored, so if you don’t tell it when tostop, it won’t. We make sure this doesn’t happen by telling the computer to repeat certain parts of a program while a certain condition is true." - From [Chris Pine's Learn to Program, page 54](http://books.flatironschool.com/books/43?page=54)
-```
+
 
 ```ruby
 counter = 1

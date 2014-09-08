@@ -2,9 +2,9 @@
 
 |Contents      |
 ----------------
-|Introduction  |
-|The Times Loop|
-|The While Loop|
+|[Introduction](#introduction)  |
+|[The Times Loop](#the-times-loop)|
+|[The While Loop](#the-while-loop)|
 
 ## Introduction
 

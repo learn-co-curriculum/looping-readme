@@ -1,3 +1,13 @@
+---
+tags: readme
+language: ruby
+resources: 0
+track: web development
+topic: ruby
+unit: control flow
+lesson: looping and breaking
+---
+
 # Loops
 
 |Contents      |

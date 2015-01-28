@@ -35,7 +35,9 @@ end
 #  └── The counter is at: 4
 #  └── The counter is at: 5
 ```
+
 * What would happen if we made the code immediately after `while` always evaluate to true? Let's look at that.
+
 ```ruby
 grass_color = "green"
 while grass_color == "green"
@@ -67,6 +69,7 @@ end
 # --> Roll rock up hill, watch it roll down.
 # --> Roll rock up hill, watch it roll down.
 ```
+
 That's kinda sad. What about King Midas? Whenever he touched an object, it turned to gold. If he turned four objects to gold, we would write it like this:
 
 ```ruby

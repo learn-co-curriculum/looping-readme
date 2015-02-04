@@ -15,6 +15,7 @@ lesson: looping and breaking
 |[Introduction](#introduction)  |
 |[The Times Loop](#the-times-loop)|
 |[The While Loop](#the-while-loop)|
+|[Breaking](#breaking)|
 
 ## Introduction
 
@@ -192,4 +193,30 @@ puts "Icarus fell, he is now swimming in the ocean at #{elevation} feet."
 # --> Icarus is falling, he is now at 2000 feet.
 # --> Icarus is falling, he is now at 0 feet.
 # --> Icarus fell, he is now swimming in the ocean at 0 feet.
+```
+
+## Breaking
+
+#### What is the `break` keyword?
+
+What happens when we have an infinite loop that keeps on going forever? What happens when, given a specific output, we want to break out of the loop? This is where the `break` keyword comes in.
+
+Let's take the example from the [Introduction](#introduction):
+
+```ruby
+counter = 1
+
+while counter <= 5
+  puts "The counter is at: #{counter}"
+  break if counter == 3
+  counter = counter + 1
+end
+```
+
+We've added a `break` keyword in the `while` loop. When the condition `if counter == 3` is met, it will break out of the loop completely, and it will not continue to iterate all the way to 5. What's going to be the output?
+
+```
+#  └── The counter is at: 1
+#  └── The counter is at: 2
+#  └── The counter is at: 3
 ```

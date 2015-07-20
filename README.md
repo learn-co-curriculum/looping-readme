@@ -1,5 +1,10 @@
 # Looping
 
+## Objectives
+
+1. Introduce the concept of looping in Ruby
+2. Introduce the different looping constructs
+
 ## Introduction
 
 In software development, what construct gives an app a lot of power and flexibility? It's the ability to loop through things. If we had to manually go through and manipulate every element one by one, that would be an overly tedious task.

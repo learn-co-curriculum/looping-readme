@@ -75,4 +75,4 @@ Here, the `+=` operator serves the purpose of the above line: `age = age +1`. It
 
 ## Coming Up
 
-There are a number of constructs that we can use to execute a loop in Ruby. Throughout this unit, we'll be introduced to the `loop`, `times`, `while`, `until` and `for` looping constructs. We'll cover them via reading material, in-browser coding challenges and cap it all off with a lab. Have fun! Have fun! Have fun! Have fun! (Okay, that was the only looping joke, promise.)
+There are a number of constructs that we can use to execute a loop in Ruby. Throughout this unit, we'll be introduced to the `loop`, `times`, `while`, `until` and `for` looping constructs. We'll cover them via reading material paired with simple labs, capped by a larger lab. Have fun! Have fun! Have fun! Have fun! (Okay, that was the only looping joke, promise.)

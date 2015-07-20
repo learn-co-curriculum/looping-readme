@@ -1,5 +1,10 @@
 # Looping
 
+## Objectives
+
+1. Introduce the concept of looping in Ruby
+2. Introduce the different looping constructs
+
 ## Introduction
 
 In software development, what construct gives an app a lot of power and flexibility? It's the ability to loop through things. If we had to manually go through and manipulate every element one by one, that would be an overly tedious task.
@@ -68,4 +73,5 @@ Here, `+=` serves the purpose of the above line: `age = age + 1`. It's simply co
 
 ## Coming Up
 
-There are a number of constructs that we can use to execute a loop in Ruby. Throughout this unit, we'll be introduced to the `loop`, `times`, `while`, `until` and `for` looping constructs. We'll cover them via reading material, in-browser coding challenges and cap it all off with a lab. Have fun! Have fun! Have fun! Have fun! (Okay, that was the only looping joke—we promise.)
+There are a number of constructs that we can use to execute a loop in Ruby. Throughout this unit, we'll be introduced to the `loop`, `times`, `while`, `until` and `for` looping constructs. We'll cover them via reading material paired with simple labs, capped by a larger lab. Have fun! Have fun! Have fun! Have fun! (Okay, that was the only looping joke—we promise.)
+

@@ -53,7 +53,7 @@ end
 
 This will output `I have found the Time Machine!` an infinite number of times in your Terminal. Use `Control`+`C` to break out of the loop in your terminal or just exit the session.
 
-Loops start with the `loop` keyword and are opened by the following `do` and `end` block. All the code that goes inside the `do` and `end` is considered the loops body or block, that's the code that will execute on repeat.
+Loops start with the `loop` keyword and are opened by the following `do` and `end` block. All the code that goes inside the `do` and `end` is considered the loop's body or block; that's the code that will execute on repeat.
 
 ## Stopping Loops with Break and Counters
 

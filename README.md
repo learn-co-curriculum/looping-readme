@@ -68,7 +68,7 @@ end
 puts "And the Loop is Done"
 ```
 
-Our loop starts, it print's our message, and then the next line of code, `break` will actually end the loop. A loop that only runs once isn't useful. Neither is a loop that runs forever. So how do we actually build a useful loop, say, that runs exactly 10 times? Well first, we need a counter. Then we need to conditionally break out of the loop when the counter reaches 10. Then we need to increment the counter at every iteration (or execution of the loop).
+Our loop starts, it prints our message, and then the next line of code, `break` will actually end the loop. A loop that only runs once isn't useful. Neither is a loop that runs forever. So how do we actually build a useful loop, say, that runs exactly 10 times? Well first, we need a counter. Then we need to conditionally break out of the loop when the counter reaches 10. Then we need to increment the counter at every iteration (or execution of the loop).
 
 ```ruby
 counter = 0 # Start our counter at 0, we have never run the loop

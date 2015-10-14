@@ -10,7 +10,7 @@
 
 ## The Add-And-Assignment (or Plus Equals) Operator `+=`  
 
-Before we jump into loops, let's introduce ourselves to a handy new syntax tool called the "add-and-assignment operator" (`+=`). You should recall seeing the addition operator (`+`) and the assignment operator `=` used separately. The add-and-assignment operator combines the functionality of addition operator *and* the assignment operator. For example, let's say that our favorite cat Maru has just had a birthday:
+Before we jump into loops, let's introduce ourselves to a handy new syntax tool called the "add-and-assignment operator" (`+=`). You should recall seeing the addition operator (`+`) and the assignment operator `=` used separately. The add-and-assignment operator combines the functionality of the addition operator *and* the assignment operator. For example, let's say that our favorite cat Maru has just had a birthday:
 
 ```ruby
 adorable_cat = "Maru"

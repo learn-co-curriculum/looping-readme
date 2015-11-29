@@ -27,7 +27,7 @@ Loops start with the `loop` keyword and are opened by the following `do` and `en
 
 ## Stopping Loops with Break and Counters
 
-Infinite loops will break our program. The `loop` keyword alone will create an infinite loop. Generally, we want to loop only a certain amount of times. We can use the `break` keyword inside the body of the loop to exit or abort the loop and continue with the rest of our code. Consider:
+Infinite loops will break our program. The `loop` keyword alone will create an infinite loop. Generally, we want to loop only a certain number of times. We can use the `break` keyword inside the body of the loop to exit or abort the loop and continue with the rest of our code. Consider:
 
 ```ruby
 loop do

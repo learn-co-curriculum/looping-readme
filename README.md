@@ -119,6 +119,21 @@ loop do
 end
 ```
 
+If you copy this to IRB you'll see the same input as above:
+
+```
+Iteration 1 of the loop
+Iteration 2 of the loop
+Iteration 3 of the loop
+Iteration 4 of the loop
+Iteration 5 of the loop
+Iteration 6 of the loop
+Iteration 7 of the loop
+Iteration 8 of the loop
+Iteration 9 of the loop
+Iteration 10 of the loop
+```
+
 
 
 <a href='https://learn.co/lessons/looping-readme' data-visibility='hidden'>View this lesson on Learn.co</a>

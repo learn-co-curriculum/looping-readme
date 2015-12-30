@@ -27,7 +27,7 @@ Loops start with the `loop` keyword and are opened by the following `do` and `en
 
 ## Stopping Loops with Break and Counters
 
-Infinite loops will break our program. The `loop` keyword alone will create an infinite loop. Generally, we want to loop only a certain number of times. We can use the `break` keyword inside the body of the loop to exit or abort the loop and continue with the rest of our code. Consider:
+A loop that only runs once isn't useful. Neither is a loop that runs forever. Infinite loops will break our program. The `loop` keyword alone will create an infinite loop. Generally, we want to loop only a certain number of times. We can use the `break` keyword inside the body of the loop to exit or abort the loop and continue with the rest of our code. Consider:
 
 ```ruby
 loop do
@@ -38,7 +38,7 @@ end
 puts "And the Loop is Done"
 ```
 
-Our loop starts, it prints our message, and then the next line of code, `break` will actually end the loop. A loop that only runs once isn't useful. Neither is a loop that runs forever. So how do we actually build a useful loop, say, that runs exactly 10 times? Well first, we need a counter. Then we need to conditionally break out of the loop when the counter reaches 10. Then we need to increment the counter at every iteration (or execution of the loop).
+Our loop starts, it prints our message, and then the next line of code, `break` will actually end the loop. So how do we actually build a loop that runs, say, exactly 10 times? Well first, we need a counter. Then we need to increment the counter at every iteration (or execution of the loop). Finally we need to conditionally break out of the loop when the counter reaches 10. 
 
 ```ruby
 counter = 0 # Start our counter at 0, we have never run the loop

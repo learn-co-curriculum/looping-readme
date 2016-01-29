@@ -136,4 +136,4 @@ Iteration 10 of the loop
 
 
 
-<a href='https://learn.co/lessons/looping-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-readme' title='Looping'>Looping</a> on Learn.co and start learning to code for free.</p>

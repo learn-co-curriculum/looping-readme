@@ -74,7 +74,7 @@ This is a common basic loop. With this construct we can `break` a `loop` based o
 
 ## Advanced: The Add-And-Assignment (or Plus-Equals) Operator `+=`  
 
-Above, we use the addition operator (`+`) and the assignment operator `=` separately to reset the `counter` variable to the sum of it's old value, plus one, every time we repeat the loop. The add-and-assignment operator combines the functionality of the addition operator *and* the assignment operator. For example, let's say that our favorite cat Maru has just had a birthday:
+Above, we use the addition operator (`+`) and the assignment operator `=` separately to reset the `counter` variable to the sum of its old value, plus one, every time we repeat the loop. The add-and-assignment operator combines the functionality of the addition operator *and* the assignment operator. For example, let's say that our favorite cat Maru has just had a birthday:
 
 ```ruby
 adorable_cat = "Maru"
@@ -137,3 +137,5 @@ Iteration 10 of the loop
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-readme' title='Looping'>Looping</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-readme'>Loops</a> on Learn.co and start learning to code for free.</p>

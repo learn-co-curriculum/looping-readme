@@ -43,7 +43,7 @@ Our loop starts, it prints our message, and then the next line of code, `break` 
 ```ruby
 counter = 0 # Start our counter at 0, we have never run the loop
 loop do # Start our loop
-  # increment our counter by 1 and set it equal to the sum of it's current value, plus 1. 
+  # increment our counter by 1 and set it equal to the sum of its current value, plus 1. 
   counter = counter + 1
 
   # Do Something
@@ -139,3 +139,5 @@ Iteration 10 of the loop
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-readme' title='Looping'>Looping</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-readme'>Loops</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-readme'>Looping</a> on Learn.co and start learning to code for free.</p>

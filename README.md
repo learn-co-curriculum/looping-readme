@@ -134,10 +134,4 @@ Iteration 9 of the loop
 Iteration 10 of the loop
 ```
 
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-readme' title='Looping'>Looping</a> on Learn.co and start learning to code for free.</p>
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-readme'>Loops</a> on Learn.co and start learning to code for free.</p>
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-readme'>Looping</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/looping-readme'>Looping</a> on Learn.co and start learning to code for free.</p>

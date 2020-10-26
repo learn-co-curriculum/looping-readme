@@ -134,4 +134,4 @@ Iteration 9 of the loop
 Iteration 10 of the loop
 ```
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/looping-readme'>Looping</a> on Learn.co and start learning to code for free.</p>
+
